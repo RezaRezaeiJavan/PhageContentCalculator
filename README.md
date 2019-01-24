@@ -18,7 +18,7 @@ python PhageContentCalculator.py <input file>
 ## Input File
 The bacterial genome of interest needs to be provided in a fasta format. 
 
-A *Streptococcus pneumoniae* draft genome (multiple contigs) is provided as an example input file.
+A *Streptococcus pneumoniae* draft genome (containing multiple contigs) is provided as an example input file.
 
 ## Database of prophage genomes 
 Previously known full-length and satellite prophage genomes need to be provided in the corresponding folders in the db directory. Prophage genomes should be annotated and provided in .GFF format. They must contain the nucleotide sequence at the end of the file and a unique locus tag for the gene IDs (--locustag). Files annotated using the [PROKKA](https://github.com/tseemann/prokka) (Rapid Prokaryotic Genome Annotation) pipeline are valid with PhageContentCalculator and this is the recommended way of generating these files. 
