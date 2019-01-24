@@ -36,7 +36,7 @@ PhageContentCalculator output the total percentage of full-length and satellite 
 
 | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 | Column 7|
 | --- | --- | --- | --- | --- | --- | --- |
-| Genome name | Percentage of full-length prophage related genes | Percentage of satellite prophage related genes | Total number of genes in the bacterial genome | Number of full-length prophage related genes| Number of satellite prophage related genes| Unique bactrial genes|
+| Genome name | Percentage of full-length prophage related genes | Percentage of satellite prophage related genes | Total number of genes in the bacterial genome | Number of full-length prophage related genes| Number of satellite prophage related genes| Unique bacterial genes|
 
 ## Feedback/Issues
 Please report any issues to the [issues page](https://github.com/RezaRezaeiJavan/PhageContentCalculator/issues) or email reza.rezaeijavan@ndm.ox.ac.uk.
