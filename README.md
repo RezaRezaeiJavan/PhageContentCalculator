@@ -23,6 +23,8 @@ A *Streptococcus pneumoniae* draft genome (containing multiple contigs) is provi
 ## Database
 Previously known full-length and satellite prophage genomes need to be provided in the corresponding folders in the db directory. Prophage genomes should be annotated and provided in .GFF format. They must contain the nucleotide sequence at the end of the file and a unique locus tag for the gene IDs (--locustag). Files annotated using the [PROKKA](https://github.com/tseemann/prokka) (Rapid Prokaryotic Genome Annotation) pipeline are valid with PhageContentCalculator and this is the recommended way of generating these files. 
 
+Five full-length and five satellite prophage genomes are provided as example input files.
+
 ## Installation
 
 ### Required dependencies
