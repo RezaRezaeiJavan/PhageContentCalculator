@@ -11,7 +11,7 @@ PhageContentCalculator script uses a database of previously known full-length an
 Copyright (C) 2019 University of Oxford
 
 ## Usage
-Use the following command to start PhageMiner:
+Use the following command to start the script:
 ```
 python PhageContentCalculator.py <input file>
 ```
