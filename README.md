@@ -32,7 +32,7 @@ PhageContentCalculator has the following dependencies, which need to be installe
 Before running the script, make sure that the script knows where these programmes are installed on your computer. The correct directories can be set at the top of the script.  
 
 ## Output files
-PhageContentCalculator output the total percentage of full-length and satellite prophage related ORFs in the given bacterial genome. Furthermore, a tab-separated values (TSV) file named "results.txt" is produced, in which the following details are recorded:
+PhageContentCalculator output the total percentage of full-length and satellite prophage related ORFs in the given bacterial genome. A tab-separated values (TSV) file named "results.txt" is produced, in which the following details are recorded:
 
 | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 | Column 7|
 | --- | --- | --- | --- | --- | --- | --- |
