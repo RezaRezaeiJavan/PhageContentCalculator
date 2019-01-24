@@ -13,11 +13,10 @@ Copyright (C) 2019 University of Oxford
 ## Usage
 Use the following command to start the script:
 ```
-python PhageContentCalculator.py <input file for the bacterial genome of interest>
+python PhageContentCalculator.py <input file>
 ```
 ## Input File
-### The bacterial genome of interest
-The bacterial genome needs to be provided in a fasta format. 
+The bacterial genome of interest needs to be provided in a fasta format. 
 
 A *Streptococcus pneumoniae* draft genome (multiple contigs) is provided as an example input file.
 
