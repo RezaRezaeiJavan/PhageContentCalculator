@@ -39,4 +39,4 @@ PhageContentCalculator output the total percentage of full-length and satellite 
 | Genome name | Percentage of full-length prophage related genes | Percentage of satellite prophage related genes | Total number of genes in the bacterial genome | Total number of genes in the bacterial genome | Number of full-length prophage related genes| Number of satellite prophage related genes| Unique bactrial genes|
 
 ## Feedback/Issues
-Please report any issues to the [issues page](https://github.com/RezaRezaeiJavan/PhageMiner/issues) or email reza.rezaeijavan@ndm.ox.ac.uk.
+Please report any issues to the [issues page](https://github.com/RezaRezaeiJavan/PhageContentCalculator/issues) or email reza.rezaeijavan@ndm.ox.ac.uk.
