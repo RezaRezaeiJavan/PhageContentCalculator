@@ -13,7 +13,7 @@ Copyright (C) 2019 University of Oxford
 ## Usage
 Use the following command to start the script:
 ```
-python PhageContentCalculator.py <input file>
+python PhageContentCalculator.py <input file for the bacterial genome of interest>
 ```
 ## Input Files
 ### The bacterial genome of interest
